@@ -8,6 +8,7 @@
   <style>
    a{
    outline: none;
+   text-decoration: none;
    }
    a:hover{
     color: blue;
@@ -24,4 +25,3 @@
         <img src="src/hackerRank4.svg" alt="logo"/>
     </a>&nbsp;&nbsp;&nbsp;
   </div>
-https://discord.gg/#8280
