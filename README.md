@@ -3,3 +3,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rainstr7&layout=compact&theme=react&card_width=445)
 <br>
 <a href="https://www.linkedin.com/in/ihahn/">LinkedIn</a>
+<br>
+<a href="https://teleg.run/ihahn_dev">Telegram</a>
