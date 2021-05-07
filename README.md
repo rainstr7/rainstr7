@@ -5,11 +5,6 @@
   <b>Follow me:</b>
   <br>
   <br>
-  <style>
-   a {
-   outline: none;
-   }
-   </style>
   <div style="text-align: center">
     <a href="https://www.linkedin.com/in/ihahn/" target="_blank">
         <img src="./src/linkedIn.svg" alt="logo"/>
