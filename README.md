@@ -5,4 +5,6 @@
 <br>
 [LinkedIn](https://www.linkedin.com/in/ihahn/)
 <br>
-<a href="https://teleg.run/ihahn_dev" target="_blank">Telegram</a>
+[Telegram](https://teleg.run/ihahn_dev)
+![alt-текст](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Текст заголовка логотипа 1")
+
