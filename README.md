@@ -11,5 +11,8 @@
     </a>&nbsp;&nbsp;&nbsp;
     <a href="https://t.me/ihahn_dev" target="_blank">
         <img src="src/telegram.svg" alt="logo"/>
+    </a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.hackerrank.com/rainstr7" target="_blank">
+        <img src="src/hackerRank.svg" alt="logo"/>
     </a>
   </div>
