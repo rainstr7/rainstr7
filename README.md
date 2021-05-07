@@ -5,16 +5,8 @@
   <b>Follow me:</b>
   <br>
   <br>
-  <style>
-   a {
-   outline: none;
-   }
-   a:hover{
-    color: blue;
-   }
-  </style>
   <div style="text-align: center">
-    <a href="https://www.linkedin.com/in/ihahn/" target="_blank">
+    <a style="text-decoration: none; outline: none" href="https://www.linkedin.com/in/ihahn/" target="_blank">
         <img src="./src/linkedIn.svg" alt="logo"/>
     </a>&nbsp;&nbsp;&nbsp;
     <a href="https://t.me/ihahn_dev" target="_blank">
