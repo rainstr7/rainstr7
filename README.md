@@ -1,6 +1,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rainstr7&theme=react&hide=stars,prs,issues,contribs&count_private=true&show_icons=true" alt="stats"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainstr7&layout=compact&theme=react&card_width=445" alt="usedLang" />
+  <br>
+  <a href="https://codeclimate.com/github/rainstr7/rainstr7/maintainability"><img src="https://api.codeclimate.com/v1/badges/30cbc297509bfbd8610c/maintainability" alt=""/></a>
+  <a href="https://codeclimate.com/github/rainstr7/rainstr7/test_coverage"><img src="https://api.codeclimate.com/v1/badges/30cbc297509bfbd8610c/test_coverage" alt=""/></a>
   <hr>
   <b>Follow me:</b>
   <br>
