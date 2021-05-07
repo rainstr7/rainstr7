@@ -10,7 +10,7 @@
   <div style="text-align: center">
     <a href="https://www.linkedin.com/in/ihahn/" target="_blank">
         <img src="src/linkedIn.svg" alt="logo"/>
-    </a>
+    </a>&nbsp;&nbsp;&nbsp;
     <a href="tg://resolve?domain=ihahn_dev" target="_blank">
         <img src="src/telegram.svg" alt="logo"/>
     </a>
