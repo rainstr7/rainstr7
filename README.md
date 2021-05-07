@@ -2,20 +2,16 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainstr7&layout=compact&theme=react&card_width=445" alt="usedLang" />
   <br>
-  <a href="https://codeclimate.com/github/rainstr7/rainstr7/maintainability"><img src="https://api.codeclimate.com/v1/badges/30cbc297509bfbd8610c/maintainability" alt=""/></a>
-  <a href="https://codeclimate.com/github/rainstr7/rainstr7/test_coverage"><img src="https://api.codeclimate.com/v1/badges/30cbc297509bfbd8610c/test_coverage" alt=""/></a>
   <hr>
   <b>Follow me:</b>
   <br>
   <br>
-  <div style="text-align: center; outline: none; text-decoration: none">
-    <a href="https://www.linkedin.com/in/ihahn/" target="_blank">
+    <a href="https://www.linkedin.com/in/ihahn/">
         <img src="./src/linkedIn.svg" alt=""/>
     </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://t.me/ihahn_dev" target="_blank">
+    <a href="https://t.me/ihahn_dev">
         <img src="./src/telegram.svg" alt=""/>
     </a>&nbsp;&nbsp;&nbsp;  
-    <a href="https://www.hackerrank.com/rainstr7" target="_blank">
+    <a href="https://www.hackerrank.com/rainstr7">
         <img src="src/hackerRank4.svg" alt=""/>
     </a>&nbsp;&nbsp;&nbsp;
-  </div>
