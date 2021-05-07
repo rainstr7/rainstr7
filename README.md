@@ -4,6 +4,7 @@
   <hr>
   <b>Follow me:</b>
   <br>
+  https://t.me/ihahn_dev
   <div style="text-align: center">
     <a href="https://www.linkedin.com/in/ihahn/" target="_blank">
         <img src="src/linkedIn.svg" alt="logo"/>
