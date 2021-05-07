@@ -5,7 +5,7 @@
   <b>Follow me:</b>
   <br>
   <br>
-  <div style="text-align: center">
+  <div style="text-align: center; outline: none; text-decoration: none">
     <a href="https://www.linkedin.com/in/ihahn/" target="_blank">
         <img src="./src/linkedIn.svg" alt="logo"/>
     </a>&nbsp;&nbsp;&nbsp;
