@@ -11,7 +11,7 @@
     <a href="https://www.linkedin.com/in/ihahn/" target="_blank">
         <img src="src/linkedIn.svg" alt="logo"/>
     </a>&nbsp;&nbsp;&nbsp;
-    <a href="tg://resolve?domain=ihahn_dev" target="_blank">
+    <a href="https://t.me/ihahn_dev" target="_blank">
         <img src="src/telegram.svg" alt="logo"/>
     </a>
   </div>
