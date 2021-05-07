@@ -3,6 +3,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rainstr7&layout=compact&theme=react&card_width=445)
 <br>
 <br>
-<a href="https://www.linkedin.com/in/ihahn/" target="_blank">LinkedIn</a>
+[LinkedIn](https://www.linkedin.com/in/ihahn/)
 <br>
 <a href="https://teleg.run/ihahn_dev" target="_blank">Telegram</a>
