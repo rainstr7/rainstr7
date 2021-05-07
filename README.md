@@ -13,6 +13,6 @@
         <img src="./src/telegram.svg" alt="logo"/>
     </a>&nbsp;&nbsp;&nbsp;
     <a href="https://www.hackerrank.com/rainstr7" target="_blank">
-        <img src="./src/hackerRank2.svg" alt="logo"/>
+        <img src="src/hackerRank3.svg" alt="logo"/>
     </a>
   </div>
