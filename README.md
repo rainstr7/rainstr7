@@ -1,6 +1,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rainstr7&theme=react&hide=stars,prs,contribs&count_private=true&show_icons=true" alt="stats"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainstr7&layout=compact&theme=react&card_width=445" alt="usedLang" />
+  <br>
+  <img src="https://www.codewars.com/users/ihahn/badges/large" alt="codewar"/>
   <hr>
   <b>Follow me:</b>
   <br>
