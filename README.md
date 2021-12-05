@@ -1,4 +1,3 @@
-  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
   <img src="https://github-readme-stats.vercel.app/api?username=rainstr7&theme=react&hide=stars,prs,contribs&count_private=true&show_icons=true" alt="stats"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainstr7&layout=compact&theme=react&card_width=445" alt="usedLang" />
@@ -17,5 +16,4 @@
     <a href="https://www.hackerrank.com/rainstr7">
         <img src="src/hackerRank4.svg" alt=""/>
     </a>&nbsp;&nbsp;&nbsp;
-<div class="badge-base LI-profile-badge" data-locale="ru_RU" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ihahn" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ru.linkedin.com/in/ihahn?trk=profile-badge">Максим Григорьев</a></div>
               
